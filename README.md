@@ -1,4 +1,4 @@
-# POA-SSI304-Estrutura-de-Dados-II_Bubble_Sort_e_Count_Sort
+# POA-SSI304-Estrutura-de-Dados-II_Comparacao_Algoritmos_de_ordenacao
 Exercício de Estrutura de dados II - Aula 04 
 Professor: Timoteo Lange
 
