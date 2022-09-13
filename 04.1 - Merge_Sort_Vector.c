@@ -24,7 +24,7 @@ main(){
 
 	printf("\nImprimindo Vetor Ordenado");
 	txt= fopen("Arquivo_ordenado_merge_sort.txt", "w");
-	//LaÁo de impress„o do Vetor
+	//La√ßo de impress√£o do Vetor
 	for(i=0; i<n; i++){
 		fprintf(txt, "%i\n", v[i]);
 	}
@@ -81,5 +81,3 @@ void merge(int vec[], int vecSize) {
 	}
 	free(tmp);
 }
-
-
